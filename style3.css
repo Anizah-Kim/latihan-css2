@@ -1,0 +1,126 @@
+body {
+	font: 16px/28px arial, sans-serif;
+	background-color: #950740;
+	color : #C3073F;
+	text-align: left;
+}
+
+.container {
+	width: 800px;
+	margin: auto;
+	background-color: #1A1A1D;
+}
+
+.header {
+	padding: 20px;
+}
+
+.header .judul {
+	font-size: 40px;
+	font-weight: bold;
+	font-family: cooper black;
+	color: #FF1493;
+}
+
+.header .deskripsi {
+	font-family: georgia;
+	color: #DAA520;
+}
+
+.Kim {
+	border-top: 5px solid lightskyblue;
+	border-bottom: 5px solid pink;
+}
+
+.aa {
+	color: purple;
+}
+
+.bb {
+	color: lightgreen;
+}
+
+.cc {
+	color: lightcoral;
+}
+
+.dd {
+	color: khaki;
+}
+
+.ee {
+	color: gainsboro;
+}
+
+.ff {
+	color: darkseagreen;
+}
+
+.gg {
+	color: darksalmon;
+}
+
+.hh {
+	color: burlywood;
+}
+
+.ii {
+	color: aquamarine;
+}
+
+.jj {
+	color: mistyrose;
+}
+
+.content ul h3 {
+	color: #FF1493;
+	font-family: arial black;
+}
+
+.content ul li {
+	font-family: Comic Sans MS;
+
+}
+
+.content p {
+	font-family: Bahnschrift Light;
+	color: #DAA520;
+}
+
+.aaa {
+	color: aquamarine;
+}
+
+.bbb {
+	color: burlywood;
+}
+
+.ccc {
+	color: darksalmon;
+}
+
+.ddd {
+	color: darkseagreen;
+}
+
+.eee {
+	color: gainsboro;
+}
+
+.fff {
+	color: khaki;
+}
+
+.ggg {
+	color: lightcoral;
+}
+
+.hhh {
+	color: lightgreen;
+}
+
+.iii {
+	color: purple;
+}
+
+
